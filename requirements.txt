@@ -1,0 +1,4 @@
+enum34==1.1.6
+requests==2.18.4
+PyYAML==3.12
+git+https://github.com/openskope/pyclowder2.git#egg=pyclowder-2.0

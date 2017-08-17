@@ -1,0 +1,21 @@
+{
+  "@context": "http://clowder.ncsa.illinois.edu/contexts/extractors.jsonld",
+  "name": "generic extractor",
+  "version": "1.0",
+  "description": "This is generic extractor_info.json.",
+  "author": "Jeff Terstriep",
+  "contributors": [],
+  "contexts": [],
+  "repository": {
+    "repType": "git",
+    "repUrl": "https://github.com/openskope/skopelib.git"
+  },
+  "process": {
+    "metadata": [
+	"added"
+    ]
+  },
+  "external_services": [],
+  "dependencies": [],
+  "bibtex": []
+}
