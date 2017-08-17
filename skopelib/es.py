@@ -1,3 +1,7 @@
+"""Common functions used to interact with Elasticsearch"""
+
+import os
+
 def add_arguments(parser):
     """Add extra arguments specific to the MetadataExtractor class."""
 
